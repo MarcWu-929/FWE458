@@ -1,0 +1,1 @@
+Git is great for version control, it records each movement and helps prevent conflict.  
