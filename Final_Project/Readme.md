@@ -1,1 +1,1 @@
-This is the Github page of the final project code for FWE 458. Some codes were adopted from PBCNN: https://github.com/rssiuiuc/PBCNN. 
+This is the Github page of the final project code for FWE 458, Including data downloading, preprocess and model training and validation. Some codes were adopted from PBCNN: https://github.com/rssiuiuc/PBCNN. 
